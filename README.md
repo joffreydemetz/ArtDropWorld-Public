@@ -46,4 +46,6 @@ ArtDrop World is currently in **alpha**. Access is by invitation only.
 
 ## License
 
+<https://artdropworld.com>
+
 All rights reserved.
